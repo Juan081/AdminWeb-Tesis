@@ -1,0 +1,8 @@
+---------------back ------------------------------
+npm install
+npm start
+la bd esta en el proyecto
+
+--------------------front-----------------
+npm install
+npm run dev
